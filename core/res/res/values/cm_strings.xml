@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- The title of the profile picker dialog. -->
-    <string name="profile_picker_title">Profiles</string>
+    <string name="profile_picker_title">Profilller</string>
 
     <!-- label for item that opens the profile choosing dialog -->
     <string name="global_action_choose_profile">Profile</string>
